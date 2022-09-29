@@ -1,0 +1,22 @@
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria\EjercicioInmobiliaria\bin\Debug\EjercicioInmobiliaria.exe.config
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria\EjercicioInmobiliaria\bin\Debug\EjercicioInmobiliaria.exe
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria\EjercicioInmobiliaria\bin\Debug\EjercicioInmobiliaria.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.csproj.SuggestedBindingRedirects.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.Properties.Resources.resources
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.csproj.GenerateResource.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.exe
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.Form1.resources
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria - Copy\EjercicioInmobiliaria\bin\Debug\EjercicioInmobiliaria.exe.config
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria - Copy\EjercicioInmobiliaria\bin\Debug\EjercicioInmobiliaria.exe
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria - Copy\EjercicioInmobiliaria\bin\Debug\EjercicioInmobiliaria.pdb
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria - Copy\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria - Copy\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.csproj.SuggestedBindingRedirects.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria - Copy\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.Form1.resources
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria - Copy\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.Properties.Resources.resources
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria - Copy\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.csproj.GenerateResource.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria - Copy\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria - Copy\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.exe
+D:\Program Files (x86)\Microsoft Visual Studio\Practia-C-Sharp\EjercicioInmobiliaria - Copy\EjercicioInmobiliaria\obj\Debug\EjercicioInmobiliaria.pdb
